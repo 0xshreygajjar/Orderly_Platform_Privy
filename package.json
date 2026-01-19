@@ -26,6 +26,7 @@
     "@orderly.network/ui-scaffold": "2.8.8",
     "@orderly.network/utils": "2.8.8",
     "@orderly.network/wallet-connector": "2.8.8",
+    "@privy-io/react-auth": "^3.11.0",
     "next": "15.4.8",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
