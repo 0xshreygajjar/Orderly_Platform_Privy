@@ -120,13 +120,13 @@ export const useOrderlyConfig = () => {
             component: (
               <img
                 alt="Intent Swap"
-                src="/fullLogo1.svg"
-                style={{ width: 140, height: 43 }}
+                src="/fullLogo3.svg"
+                style={{ width: 140, height: 50, marginLeft: "10px" }}
               />
             ),
           },
           secondary: {
-            img: "/logomark1.svg",
+            img: "/intentswap/logomark1.svg",
           },
         },
         restrictedInfo: {
