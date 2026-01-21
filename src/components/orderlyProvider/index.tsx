@@ -67,6 +67,7 @@ const OrderlyProvider: FC<{ children: ReactNode }> = (props) => {
             appearance: {
               theme: "dark",
               accentColor: "#181C23",
+              logo: "/intentswap/Full Logo 1.svg",
             },
           },
         }}

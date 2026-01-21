@@ -119,14 +119,14 @@ export const useOrderlyConfig = () => {
           main: {
             component: (
               <img
-                alt="Orderly logo"
-                src="/images/orderly-logo.svg"
-                style={{ width: 100, height: 40 }}
+                alt="Intent Swap"
+                src="/fullLogo1.svg"
+                style={{ width: 140, height: 43 }}
               />
             ),
           },
           secondary: {
-            img: "/images/orderly-logo-secondary.svg",
+            img: "/logomark1.svg",
           },
         },
         restrictedInfo: {
